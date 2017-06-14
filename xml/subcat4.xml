@@ -1,0 +1,76 @@
+<feed>
+<!--
+ resultLength indicates the total number of results for this feed 
+-->
+<resultLength>3</resultLength>
+<!--
+ endIndix  indicates the number of results for this *paged* section of the feed 
+-->
+<endIndex>3</endIndex>
+<!-- --------------------------------------------->
+<item 
+	sdImg="https://goodhandstv.com/beta/videoplayer/images/howmuch.png" 
+	hdImg="https://goodhandstv.com/beta/videoplayer/images/howmuch.png">
+	<title>Renters Insurance</title>
+	<contentId>1001</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+		<streamQuality>SD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://cdnapi.kaltura.com/p/2060351/sp/206035100/playManifest/entryId/1_v317iutq/flavorId/1_tg6k8f27/protocol/http/format/url/a.mp4</streamUrl>
+	</media>
+	<synopsis>
+	Allstate would like to remind you that, "Renters insurance protects your stuff even outside your apartment." Hosted on Kaltura, without client tag.
+	</synopsis>
+	<genres>YCA</genres>
+	<runtime>606</runtime>
+</item>
+<!-- --------------------------------------------->
+<!-- --------------------------------------------->
+<item 
+	sdImg="https://goodhandstv.com/beta/videoplayer/images/YCAcombo.png" 
+	hdImg="https://goodhandstv.com/beta/videoplayer/images/YCAcombo.png">
+	<title>Combined YCA</title>
+	<contentId>1002</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+		<streamQuality>SD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://goodhandstv.com/beta/videoplayer/video/YCA_2.0.mp4</streamUrl>
+	</media>
+	<synopsis>
+	For Your Choice Auto states, a compilation of video clips. Hosted on GoodHandsTV.
+	</synopsis>
+	<genres>YCA</genres>
+	<runtime>606</runtime>
+</item>
+<!-- --------------------------------------------->
+<!-- --------------------------------------------->
+<item 
+	sdImg="https://goodhandstv.com/beta/videoplayer/images/nonYCAcombo.png" 
+	hdImg="https://goodhandstv.com/beta/videoplayer/images/nonYCAcombo.png">
+	<title>Combined Non-YCA</title>
+	<contentId>1003</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+		<streamQuality>SD</streamQuality>
+		<streamBitrate>1500</streamBitrate>
+		<streamUrl>http://cdnapi.kaltura.com/p/2060351/sp/206035100/playManifest/entryId/1_sdxyz2by/flavorId/1_y0yrxcu1/protocol/http/format/url/a.mp4?clientTag=feed:1_7n0u7zzj</streamUrl>
+	</media>
+	<synopsis>
+	For non-Your Choice Auto states, a different compilation of video clips. Hosted on Kaltura, with client tag.
+	</synopsis>
+	<genres>YCA</genres>
+	<runtime>606</runtime>
+</item>
+<!-- --------------------------------------------->
+<!-- --------------------------------------------->
+
+
+</feed>

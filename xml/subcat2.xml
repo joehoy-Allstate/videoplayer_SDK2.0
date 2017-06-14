@@ -1,0 +1,74 @@
+<feed>
+<!-- resultLength indicates the total number of results for this feed -->
+<resultLength>4</resultLength>
+<!-- endIndix  indicates the number of results for this *paged* section of the feed -->
+<endIndex>4</endIndex>
+<item sdImg="https://goodhandstv.com/beta/videoplayer/images/YCAcombo.png" hdImg="https://goodhandstv.com/beta/videoplayer/images/YCAcombo.png">
+	<title>Compilation of clips for Your Choice Auto states</title>
+	<contentId>1002</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	<streamQuality>SD</streamQuality>
+	<streamBitrate>1500</streamBitrate>
+	<streamUrl>http://cdnapi.kaltura.com/p/2060351/sp/206035100/playManifest/entryId/1_apv39210/flavorId/1_2yo05d5m/protocol/http/format/url/a.mp4?clientTag=feed:1_h7huvaou</streamUrl>
+	</media>
+	<synopsis>
+	These clips for Your Choice Auto states are compiled to minimize buffering between videos.
+	</synopsis>
+	<genres>Allstate</genres>
+	<runtime>606</runtime>
+</item>
+<item sdImg="https://goodhandstv.com/beta/videoplayer/images/nonYCAcombo.png" hdImg="https://goodhandstv.com/beta/videoplayer/images/nonYCAcombo.png">
+	<title>Compilation of clips for non-Your Choice Auto states</title>
+	<contentId>1002</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	<streamQuality>SD</streamQuality>
+	<streamBitrate>1500</streamBitrate>
+	<streamUrl>http://cdnapi.kaltura.com/p/2060351/sp/206035100/playManifest/entryId/1_sdxyz2by/flavorId/1_y0yrxcu1/protocol/http/format/url/a.mp4?clientTag=feed:1_7n0u7zzj</streamUrl>
+	</media>
+	<synopsis>
+	These clips for non-Your Choice Auto states are compiled to minimize buffering between videos.
+	</synopsis>
+	<genres>Allstate</genres>
+	<runtime>606</runtime>
+</item>
+<item sdImg="https://goodhandstv.com/beta/videoplayer/images/howmuch.png" hdImg="https://goodhandstv.com/beta/videoplayer/images/howmuch.png">
+	<title>Renters Insurance</title>
+	<contentId>1001</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	<streamQuality>SD</streamQuality>
+	<streamBitrate>1500</streamBitrate>
+	<streamUrl>http://cdnapi.kaltura.com/p/2060351/sp/206035100/playManifest/entryId/1_v317iutq/flavorId/1_tg6k8f27/protocol/http/format/url/a.mp4?clientTag=feed:1_olcm37qi</streamUrl>
+	</media>
+	<synopsis>
+	Allstate would like to remind you that, "Renters insurance protects your stuff even outside your apartment."
+	</synopsis>
+	<genres>Allstate</genres>
+	<runtime>40</runtime>
+</item>
+<item sdImg="https://goodhandstv.com/beta/videoplayer/images/YCA_BILINGUAL.png" hdImg="https://goodhandstv.com/beta/videoplayer/images/YCA_BILINGUAL.png">
+	<title>YCA Bilingual</title>
+	<contentId>1001</contentId>
+	<contentType>Talk</contentType>
+	<contentQuality>SD</contentQuality>
+	<streamFormat>mp4</streamFormat>
+	<media>
+	<streamQuality>SD</streamQuality>
+	<streamBitrate>1500</streamBitrate>
+	<streamUrl>http://cdnapi.kaltura.com/p/2060351/sp/206035100/playManifest/entryId/1_ql00205p/flavorId/1_jy873e0y/protocol/http/format/url/a.mp4?clientTag=feed:1_pbwv6ot7</streamUrl>
+	</media>
+	<synopsis>
+	For YCA states with customers who speak either English or Spanish.
+	</synopsis>
+	<genres>Allstate</genres>
+	<runtime>24</runtime>
+</item>
+</feed>

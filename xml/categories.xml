@@ -1,0 +1,42 @@
+<categories>
+	<category 
+		title="Good Hands TV 1" 
+		description="Region 1" 
+		sd_img="https://goodhandstv.com/beta/videoplayer/images/allstate_poster1.png" hd_img="https://goodhandstv.com/beta/videoplayer/images/allstate_poster1.png"
+		>
+		<categoryLeaf 
+			title="Allstate Clips" 
+			description="" 
+			feed="https://goodhandstv.com/beta/videoplayer/xml/subcat2.xml"
+			/>
+		<categoryLeaf 
+			title="Allstate Clips on GHTV" 
+			description="" 
+			feed="https://goodhandstv.com/beta/videoplayer/xml/subcat4.xml"
+			/>
+	</category>
+	<category 
+		title="Good Hands TV 2" 
+		description="Region 2" 
+		sd_img="https://goodhandstv.com/beta/videoplayer/images/allstate_poster2.png" hd_img="https://goodhandstv.com/beta/videoplayer/images/allstate_poster2.png"
+		>
+		<categoryLeaf 
+			title="Music" 
+			description="" 
+			feed="https://devtools.web.roku.com/videoplayer/xml/music.xml"/>
+		<categoryLeaf 
+			title="Inspiration" 
+			description="" 
+			feed="https://devtools.web.roku.com/videoplayer/xml/inspiration.xml"/>
+	</category>
+<!-- 3 -->
+	<category title="Good Hands TV 3" description="Region 3" sd_img="https://goodhandstv.com/beta/videoplayer/images/allstate_poster3.png" hd_img="https://goodhandstv.com/beta/videoplayer/images/allstate_poster3.png">
+		<categoryLeaf title="Creativity" description="" feed="https://devtools.web.roku.com/videoplayer/xml/creativity.xml"/>
+		<categoryLeaf title="Design" description="" feed="https://devtools.web.roku.com/videoplayer/xml/design.xml"/>
+	</category>
+<!-- 4 -->
+	<category title="Good Hands TV 4" description="Region 4" sd_img="https://goodhandstv.com/beta/videoplayer/images/allstate_poster4.png" hd_img="https://goodhandstv.com/beta/videoplayer/images/allstate_poster4.png">
+		<categoryLeaf title="Creativity" description="" feed="https://devtools.web.roku.com/videoplayer/xml/creativity.xml"/>
+		<categoryLeaf title="Design" description="" feed="https://devtools.web.roku.com/videoplayer/xml/design.xml"/>
+	</category>
+</categories>
